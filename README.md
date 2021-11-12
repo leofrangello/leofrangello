@@ -1,6 +1,4 @@
-# White-Hat Area
-##
-  
+ 
 <div align="center">
     <img src="https://c.tenor.com/G465PtI9pbYAAAAC/critical-ops-we-do-a-little-trolling.gif" width="400" height="200" />
   </div>

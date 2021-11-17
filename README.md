@@ -20,6 +20,7 @@
     - Anew
     - Amass
     - Findomain
+    - Chaos
   ### Resolução de subdominios 
     - HTTPX
     - HTTPROBE

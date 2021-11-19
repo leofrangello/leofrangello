@@ -34,5 +34,8 @@
   ### Enumeração de JS
     - Subjs
     - Hakcheckurl
+ 
+ ### Enumeração de diretórios
+    - Ffuf
   
  

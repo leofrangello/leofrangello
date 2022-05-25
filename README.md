@@ -17,6 +17,7 @@
     - Burp Suite
   ### Port Scan 
     - Nmap
+ 
   ### Enumeração
     - Assetfinder
     - Subfinder
@@ -28,20 +29,17 @@
     - ParamSpider
     - Unfurl 
     - enum4linux
-  ### Resolução de subdominios 
-    - HTTPX
-    - HTTPROBE
-    - GOWITNESS
-  ### Enumeração de endpoints 
-   
     - Arjun
-  ### Enumeração de JS
     - Subjs
     - Hakcheckurl
- ### Enumeração de diretórios
     - Ffuf
     - Dirb
     - Dirbuster
+ 
+  ### Resolução de subdominios 
+    - HTTPX
+    - HTTPROBE
+    
  ### Bruteforce
     - Hydra
  ### Quebra de hash

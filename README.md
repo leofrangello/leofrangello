@@ -15,27 +15,36 @@
  
   ### Proxy
     - Burp Suite
-  ### Enumeração de subdomínios
+  ### 
+    - Nmap
+  ### Enumeração
     - Assetfinder
     - Subfinder
     - Anew
     - Amass
     - Findomain
     - Chaos
+     - GF
+    - ParamSpider
+    - Unfurl 
+    - enum4linux
   ### Resolução de subdominios 
     - HTTPX
     - HTTPROBE
     - GOWITNESS
   ### Enumeração de endpoints 
-    - GF
-    - ParamSpider
-    - Unfurl 
+   
     - Arjun
   ### Enumeração de JS
     - Subjs
     - Hakcheckurl
- 
  ### Enumeração de diretórios
     - Ffuf
+    - Dirb
+    - Dirbuster
+ ### Bruteforce
+    - Hydra
+ ### Quebra de hash
+    - John the Ripper
   
  

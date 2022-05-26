@@ -25,7 +25,7 @@
     - Amass
     - Findomain
     - Chaos
-     - GF
+    - GF
     - ParamSpider
     - Unfurl 
     - enum4linux

@@ -4,6 +4,9 @@
   </div>
 
  ##
+<div align="center">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/leofrangello.png" alt="TryHackMe">
+</div>
  
 <div align="center">
   <a href="https://github.com/leofrangello">

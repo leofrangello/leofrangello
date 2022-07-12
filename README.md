@@ -1,28 +1,22 @@
  
 <div align="center">
-    <img src="https://c.tenor.com/G465PtI9pbYAAAAC/critical-ops-we-do-a-little-trolling.gif" width="400" height="200" />
-  </div>
-
- ##
-<div align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/leofrangello.png" alt="TryHackMe">
-
+    <img src="https://c.tenor.com/G465PtI9pbYAAAAC/critical-ops-we-do-a-little-trolling.gif" width="800" height="200" />
 </div>
- 
-<div align="center">
-  <a href="https://github.com/leofrangello">
+
+<a href="https://github.com/leofrangello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leofrangello&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofrangello&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leofrangello&layout=compact&langs_count=7&theme=dark"/>
  
-## Ferramentas que costumo utilizar tanto para bugbounty/ pentest, quanto para CTF
+## Tools I normally use for bug bounty, pentest and CTF
  
   ### Proxy
     - Burp Suite
+    - Zap
+  
   ### Port Scan 
     - Nmap
  
-  ### Enumeração
+  ### Enumeration (Subdomain, Directories, Files)
     - Assetfinder
     - Subfinder
     - Anew
@@ -40,13 +34,14 @@
     - Dirb
     - Dirbuster
  
-  ### Resolução de subdominios 
+  ### Subdomain resolution 
     - HTTPX
     - HTTPROBE
     
  ### Bruteforce
     - Hydra
- ### Quebra de hash
+    
+ ### Password crack
     - John the Ripper
   
  

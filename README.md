@@ -3,7 +3,9 @@
     <img src="https://c.tenor.com/G465PtI9pbYAAAAC/critical-ops-we-do-a-little-trolling.gif" width="800" height="200" />
 </div>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/leofrangello.png" alt="TryHackMe">
+<div align="center">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/leofrangello.png" alt="TryHackMe"/>
+</div>
 
 ## Tools I normally use for bug bounty, pentest and CTF
  
